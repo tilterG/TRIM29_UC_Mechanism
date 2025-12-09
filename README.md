@@ -21,12 +21,19 @@ Data objects: results/*.RData
 
 **Code Structure**
 TRIM29_UC_Mechanism/
+
 ├── run_analysis.R              # Master scrips
+
 ├── renv.lock                   # Package versions
+
 ├── code/                       # Core analysis
+
 │   ├── 01_WGCNA_analysis.R
+
 │   ├── 02_mendelian_randomization.R
+
 │   ├── 03_machine_learning.R
+
 │   └── 04_xgboost_selection.R
 
 **Citation**
