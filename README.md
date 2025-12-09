@@ -47,7 +47,14 @@ TRIM29_UC_Mechanism/
 │   └── 04_xgboost_selection.R
 
 **Citation**
-If using this code, please cite our manuscript. For questions, contact [gxz479233@163.com].
+If using this code, please cite our manuscript after. 
+For questions, contact [gxz479233@163.com].
 
 **License**
 MIT License. See LICENSE file.
+
+**Markdown**
+- This code repository is provided **solely for the purpose of peer review and academic verification** of the associated manuscript.
+- The authors make no warranties regarding the accuracy or completeness of the code.
+- **This code is not intended for clinical use or direct medical decision-making.**
+- Users are responsible for complying with all applicable data use agreements for any input data they employ.
