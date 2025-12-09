@@ -39,7 +39,7 @@ TRIM29_UC_Mechanism/
 │   └── 04_xgboost_selection.R
 
 Citation
-If using this code, please cite our manuscript. For questions, contact [your.name@institution.edu].
+If using this code, please cite our manuscript. For questions, contact [gxz479233@163.com].
 
 License
 MIT License. See LICENSE file.
