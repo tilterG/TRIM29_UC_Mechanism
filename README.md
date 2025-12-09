@@ -24,7 +24,7 @@ Code Structure
 
 TRIM29_UC_Mechanism/
 
-├── run_analysis.R              # Master script
+├── run_analysis.R              # Master scrips
 
 ├── renv.lock                   # Package versions
 
